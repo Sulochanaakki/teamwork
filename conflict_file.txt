@@ -1,11 +1,19 @@
 This is the file on Sulochana's git that all team members will edit to crate a conflict per the assignment.
 
-Type the team contact email here: 
+Type the team contact email here: siri.lerdsirisopon@gmail.com 
 (Each of us types in our own email address to create a conflict)
 
 Hi all this is sulochana
 my email id is :akki.sulochana@gmail.com
 
+ sulochana
 Sir please add email id
 
 please share all your mail ids.
+please share all your mail ids.
+
+This is Siri again... Adding this line after pulling the changes from Sulochana's git on GitHub. 
+After pulling, the branches merged and somehow, Sulochana's added lines 
+(from "This is sulochana" above to "please share all your mail ids") 
+is automatically concatenated to the existing conflict_file.txt on my local repo.
+main
