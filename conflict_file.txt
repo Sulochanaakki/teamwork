@@ -7,3 +7,9 @@ This is sulochana
 my email id is :akki.sulochana@gmail.com
 
 please share all your mail ids.
+
+This is Siri again... Adding this line after pulling the changes from Sulochana's git on GitHub. 
+After pulling, the branches merged and somehow, Sulochana's added lines 
+(from "This is sulochana" above to "please share all your mail ids") 
+is automatically concatenated to the existing conflict_file.txt on my local repo.
+
